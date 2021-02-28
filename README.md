@@ -4,8 +4,8 @@
 The goal is to destroy all enemy spacecraft without being hit (enemy spacecraft will reach our spaceship).
  
 ### Keys:
-* Right arrow key to right
-* Left Arrow key Turn left
+* Right arrow key to move right
+* Left Arrow key move left
 * spacebar for shooting
 
 
